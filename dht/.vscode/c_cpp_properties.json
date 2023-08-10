@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "E:/Esp/Espressif/**",
+                "E:/Esp/Espressif/frameworks/esp-idf-v4.4.4/examples/build_system/cmake/idf_as_lib/stubs/freertos",
+                "E:/Esp/Espressif/frameworks/esp-idf-v4.4.4/examples/common_components/protocol_examples_common"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ]
+        }
+    ],
+    "version": 4
+}

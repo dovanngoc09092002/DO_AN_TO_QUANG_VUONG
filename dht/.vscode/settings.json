@@ -1,0 +1,14 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "idf.adapterTargetName": "esp32",
+    "files.associations": {
+        "clk.h": "c",
+        "esp_system.h": "c",
+        "dns.h": "c",
+        "protocol_examples_common.h": "c",
+        "dht.h": "c",
+        "HD44780.C": "cpp",
+        "nvs_flash.h": "c",
+        "esp_netif.h": "c"
+    }
+}
